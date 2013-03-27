@@ -2,14 +2,14 @@
 
 The Fuzzy Version Matcher gem takes a list of candidate version numbers (strings in the form of numbers/letters separated by non-numbers/letters) eg:
 
-5.1.45-10-percona
-5.1.45-10.2-percona
-5.1.66-14.2-percona
-5.1.67-14.3-percona
-5.5.23-25.3-percona
-5.5.27-29.0-percona
-5.5.28-29.2-percona
-5.5.29-29.4-percona
+* 5.1.45-10-percona
+* 5.1.45-10.2-percona
+* 5.1.66-14.2-percona
+* 5.1.67-14.3-percona
+* 5.5.23-25.3-percona
+* 5.5.27-29.0-percona
+* 5.5.28-29.2-percona
+* 5.5.29-29.4-percona
 
 and a subject version number, eg:
 
