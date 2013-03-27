@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/wjessop/fuzzy_version_matcher.png?branch=master)](https://travis-ci.org/wjessop/fuzzy_version_matcher)
+
 # FuzzyVersionMatcher
 
 The Fuzzy Version Matcher gem takes a list of candidate version numbers (strings in the form of numbers/letters separated by non-numbers/letters) eg:
