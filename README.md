@@ -48,7 +48,7 @@ I've tested the gem on 2.0.0, it probably works on 1.9.3. 1.8.7 YMMV.
 ## Usage
 
 ```ruby
-n = Node.new
+n = FuzzyVersionMatcher::Node.new
 
 DATA.readlines.each do |ln|
 	# add all available versions
