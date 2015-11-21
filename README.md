@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/wjessop/fuzzy_version_matcher.png?branch=master)](https://travis-ci.org/wjessop/fuzzy_version_matcher)
+[![Build Status](https://travis-ci.org/wjessop/fuzzy_version_matcher.png?branch=master)](https://travis-ci.org/wjessop/fuzzy_version_matcher) [![Code Climate](https://codeclimate.com/github/wjessop/fuzzy_version_matcher/badges/gpa.svg)](https://codeclimate.com/github/wjessop/fuzzy_version_matcher)
 
 # FuzzyVersionMatcher
 
