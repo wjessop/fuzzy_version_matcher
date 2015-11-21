@@ -39,7 +39,7 @@ module FuzzyVersionMatcher
 
 		def traverse_high
 			if @nodes.size > 0
-				return @nodes.sort_by{|seg, node| seg}.last.last.traverse_high || @version
+				return @nodes.sort_by{|seg| seg}.last.last.traverse_high || @version
 			else
 				return @version
 			end
